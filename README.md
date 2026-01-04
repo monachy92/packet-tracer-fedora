@@ -1,6 +1,6 @@
 # Cisco Packet Tracer on Fedora
 
-A simple automated setup script for running **Cisco Packet Tracer 9.0** on Fedora (and other immutable Linux distributions) using Distrobox and an Ubuntu 22.04 container.
+A simple automated setup script for running **Cisco Packet Tracer 9.0** on Fedora using Distrobox and an Ubuntu 22.04 container.
 
 ## Why This Exists
 
@@ -8,8 +8,8 @@ Cisco Packet Tracer officially only supports Ubuntu/Debian systems. This script 
 
 ## Prerequisites
 
-- **Fedora** (tested on Fedora 39+) or any immutable Linux distro (Silverblue, Kinoite, Bazzite, etc.)
-- **Distrobox** and **Podman** (usually pre-installed on immutable Fedora variants)
+- **Fedora** or any inux distro
+- **Distrobox** and **Podman** (usually pre-installed on Fedora variants)
 - **Cisco Packet Tracer .deb file** - Download from [Cisco NetAcad](https://www.netacad.com/portal/resources/packet-tracer) (free account required)
 
 ### Install Distrobox (if needed)
@@ -24,7 +24,7 @@ sudo dnf install distrobox
 
 1. **Clone this repository:**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/packet-tracer-fedora.git
+   git clone https://github.com/monarchy92/packet-tracer-fedora.git
    cd packet-tracer-fedora
    ```
 
