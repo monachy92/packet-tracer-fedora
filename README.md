@@ -172,24 +172,8 @@ update-desktop-database ~/.local/share/applications
 4. **Desktop Integration**: Adds menu entry for easy access
 5. **AppImage Extraction**: Extracts Packet Tracer from the .deb installer
 
-## 🤝 Contributing
-
-**Note:** This project is not actively maintained. Feel free to fork and modify for your own use, but pull requests may not be reviewed or merged.
-
 ## ⚠️ Disclaimer
 
 This is an unofficial installation method. Cisco Packet Tracer is proprietary software owned by Cisco Systems. You must have a valid NetAcad account and agree to Cisco's terms of service.
 
 This script does not modify or crack Packet Tracer in any way - it simply provides a secure containerized environment for the official software.
-
-## 🙏 Acknowledgments
-
-- [Distrobox](https://github.com/89luca89/distrobox) - Container management
-- Cisco NetAcad - For providing Packet Tracer
-- The Linux community - For containerization tools
-
----
-
-**Questions?** Check the [Distrobox documentation](https://distrobox.privatedns.org/) or search existing issues.
-
-**Found this helpful?** Feel free to fork and adapt it for your needs!
