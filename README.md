@@ -169,11 +169,7 @@ update-desktop-database ~/.local/share/applications
 
 ## 🤝 Contributing
 
-Contributions are welcome! Please:
-1. Fork the repository
-2. Create a feature branch
-3. Test thoroughly on your system
-4. Submit a pull request
+**Note:** This project is not actively maintained. Feel free to fork and modify for your own use, but pull requests may not be reviewed or merged.
 
 ## ⚠️ Disclaimer
 
@@ -195,6 +191,6 @@ The script is open source, but Cisco Packet Tracer itself is proprietary softwar
 
 ---
 
-**Questions?** Open an issue on GitHub or check the [Distrobox documentation](https://distrobox.privatedns.org/).
+**Questions?** Check the [Distrobox documentation](https://distrobox.privatedns.org/) or search existing issues.
 
-**Enjoying this?** Give it a ⭐ on GitHub!
+**Found this helpful?** Feel free to fork and adapt it for your needs!
