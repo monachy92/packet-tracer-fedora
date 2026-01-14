@@ -1,6 +1,5 @@
 # 🔒 Hardened Cisco Packet Tracer Setup
 
-![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Distrobox](https://img.shields.io/badge/Distrobox-Compatible-green)
 
@@ -176,12 +175,6 @@ update-desktop-database ~/.local/share/applications
 This is an unofficial installation method. Cisco Packet Tracer is proprietary software owned by Cisco Systems. You must have a valid NetAcad account and agree to Cisco's terms of service.
 
 This script does not modify or crack Packet Tracer in any way - it simply provides a secure containerized environment for the official software.
-
-## 📄 License
-
-MIT License - see [LICENSE](LICENSE) file for details.
-
-The script is open source, but Cisco Packet Tracer itself is proprietary software subject to Cisco's licensing terms.
 
 ## 🙏 Acknowledgments
 
